@@ -1,0 +1,3 @@
+﻿User-agent: *
+Allow: /
+Sitemap: https://1004hometai.shop/sitemap.xml
